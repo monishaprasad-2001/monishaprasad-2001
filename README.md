@@ -38,9 +38,9 @@
 ## 📦 Featured Projects
 
 - 🔗 [AInterview – AI-Powered Interview Assistant](https://github.com/monishaprasad-2001/AInterview): An end-to-end AI interview evaluation platform integrating OpenAI, Whisper, and FastAPI, built to transcribe interview audio, assess candidate responses, and generate intelligent feedback. Designed for mock interviews and scalable assessments with frontend integration and real-time scoring.
-- 🔗 [Grill Order Management System](https://github.com/monishaprasad-2001/GrillOrderManagementSystem): Role-based restaurant ordering app built with Jakarta EE (MVC, JPA, EJB).
-- 🔗 [Fashion Cloth Inventory Management System](https://github.com/monishaprasad-2001/Fashion-Cloth-Inventory_Management-System): Retail-focused system offering real-time inventory and analytics.
-- 🔗 **Dockerized Alumni Portal:** Python-based desktop + Docker deployment for managing alumni events, jobs, and updates.
+- 🔗 [Grill Order Management System](https://github.com/monishaprasad-2001/GrillOrderManagementSystem): Role-based restaurant ordering application built using Jakarta EE (MVC, JPA, EJB). Features include admin, staff, and customer roles with secure workflows for dynamic menus and orders.
+- 🔗 [Fashion Cloth Inventory Management System](https://github.com/monishaprasad-2001/Fashion-Cloth-Inventory_Management-System): A retail-focused inventory management system offering real-time stock tracking, order handling, and data analytics, aimed at small to mid-sized fashion retailers.
+- 🔗 **Dockerized Alumni Portal:** A Python-based desktop application deployed using Docker to manage alumni-related information such as events, placement opportunities, and college updates.
 
 ---
 
