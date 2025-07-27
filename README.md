@@ -46,7 +46,7 @@
 
 ## 📫 Let's Connect
 
-- 📧 mprasad3@hawk.iit.edu  
+- 📧 mprasad3@hawk.illinoistech.edu  
 - 💼 [LinkedIn](https://www.linkedin.com/in/monisha-prasad12/)  
 - 🖥️ [Portfolio](https://github.com/monishaprasad-2001)  
 
